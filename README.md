@@ -1,6 +1,6 @@
  #Kayalin Van Kogelenberg
 
-_Courage is the magic that turns dreams into reality._
+ _Courage is the magic that turns dreams into reality._
 
 ![alt text](https://github.com/MonoraxXiV/markdown-challenge/blob/master/Kayalin.jpg "Photo")
    
