@@ -37,5 +37,5 @@ While doing a dungeon together. I made him his favourite class' soulstone from t
 Met boyfriend while in cosplay, impressed him by being a know-it all.
 
 
-[<<previous page](https://github.com/JoeVN17/markdown-challenge) Kayalin [next page >>]
+[<<previous page](https://github.com/JoeVN17/markdown-challenge) Kayalin [next page >>](https://github.com/MatthiasNijskens/markdown-challenge)
 
