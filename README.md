@@ -1,4 +1,4 @@
-#Kayalin Van Kogelenberg
+# Kayalin Van Kogelenberg
 
  _Courage is the magic that turns dreams into reality._
 
@@ -31,7 +31,7 @@ If you need someone to talk to, I am always willing to lend an ear.
 
 ##### A funny story
 I met my boyfriend irl for the first time while I was cosplaying V from Devil may cry 5 at facts. 
-But before that we apparently met on final fantasy XIV where I proceeded to lecture him on the game for several hours.
+Apparently we did meet before on final fantasy XIV where I proceeded to lecture him on the game for several hours.
 While doing a dungeon together. I made him his favourite class' soulstone from the game for his birthday to remind him of it.
 ###### TL;DR
 Met boyfriend while in cosplay, impressed him by being a know-it all.
