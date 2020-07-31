@@ -1,8 +1,10 @@
+
 #Kayalin Van Kogelenberg
 
 _Courage is the magic that turns dreams into reality._
 
-![image](/home/kayadmin/markdown/Kayalin.jpg)
+![alt text](https://github.com/MonoraxXiV/markdown-challenge/blob/master/Kayalin.jpg "Photo")
+   
 ## Me, in one sentence
 
 
@@ -37,3 +39,4 @@ Met boyfriend while in cosplay, impressed him by being a know-it all.
 
 
 [<<previous page](https://github.com/JoeVN17/markdown-challenge) Kayalin [next page >>]
+
