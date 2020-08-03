@@ -4,14 +4,14 @@
 
 ![alt text](https://github.com/MonoraxXiV/markdown-challenge/blob/master/Kayalin.jpg "Photo")
    
-## Me, in one sentence
-Chaotic neutral ball of sunshine and chaos, fearing the day her creations revolt against her.
+## Chaotic neutral ball of sunshine and chaos, fearing the day her creations revolt against her.
+
 
 |Birthday  | 07/06  |
 |-----------|---|
 |Favourite color |Green |
 |Favourite food| Sushi |
-|Pineapple on pizza?  |**NO**   |  
+|Pineapple on pizza?  |&#9746;|  
 
 ### Hobbies
 
@@ -37,5 +37,5 @@ While doing a dungeon together. I made him his favourite class' soulstone from t
 Met boyfriend while in cosplay, impressed him by being a know-it all.
 
 
-[<<previous page](https://github.com/JoeVN17/markdown-challenge) Kayalin [next page >>](https://github.com/MatthiasNijskens/markdown-challenge)
+[<<previous page](https://github.com/JoeVN17/markdown-challenge) Kayalin [next page >>](https://github.com/LeaDalibard/markdown-challenge.git)
 
